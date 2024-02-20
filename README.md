@@ -18,19 +18,19 @@ Welcome to our project! Our mission is to build a comprehensive model that predi
 By accomplishing our project goals, we will provide Tetouan with the capability to make informed, data-driven decisions regarding energy policy and distribution. This forward-thinking approach will not only contribute to the city's energy efficiency and sustainability but also ensure a reliable power supply for its residents.
 
 ## Dataset
-The data used in this notebook comes from the Kaggle's Electric Power Consumption dataset. This dataset is a CSV file with 3 columns of electric power consumption recorded at a frequency of 6 samples per hour (1 sample every 10 minutes). Each of these 3 columns represents a zone of the city of Tétouan, in Morocco.
+The data used in this notebook comes from Kaggle's Electric Power Consumption dataset. This dataset is a CSV file with 3 columns of electric power consumption recorded at a frequency of 6 samples per hour (1 sample every 10 minutes). Each of these 3 columns represents a zone of the city of Tétouan, in Morocco.
 
 ## Features:
 
 Date Time: Time window of ten minutes.
--- Temperature: Weather Temperature.
--- Humidity: Weather Humidity.
--- Wind Speed: Wind Speed.
--- General Diffuse Flows: “Diffuse flow” is a catchall term to describe low-temperature (< 0.2° to ~ 100°C) fluids that slowly discharge through sulfide mounds, fractured       lava flows, and assemblages of bacterial mats and macrofauna.
--- Diffuse Flows
+- **Temperature: Weather Temperature.**
+- **Humidity: Weather Humidity.**
+- **Wind Speed: Wind Speed.**
+- **General Diffuse Flows:** “Diffuse flow” is a catchall term to describe low-temperature (< 0.2° to ~ 100°C) fluids that slowly discharge through sulfide mounds, fractured       lava flows, and assemblages of bacterial mats and macrofauna.
+- **Diffuse Flows**
 
 ## Target:
 
-Zone 1 Power Consumption
-Zone 2 Power Consumption
-Zone 3 Power Consumption
+- **Zone 1 Power Consumption**
+- **Zone 2 Power Consumption**
+- **Zone 3 Power Consumption**
